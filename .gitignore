@@ -1,0 +1,5 @@
+.DS_Store
+
+pxbuildversion_anchor
+*.generated.json
+
